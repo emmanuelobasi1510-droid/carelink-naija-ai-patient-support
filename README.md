@@ -186,9 +186,9 @@ This is a learning prototype. It is **not** connected to live clinic, pricing, i
 
 | Role | Team member |
 |---|---|
-| Infrastructure and Reliability Lead | [Name] |
-| Persona and Brand Lead | [Name] |
-| Prompt Engineering and Limitations Lead | [Name] |
+| Infrastructure and Reliability Lead | [Emmanuel Obasi](https://github.com/emmanuelobasi1510-droid) |
+| Persona and Brand Lead | [Matthew Fekumoh](https://github.com/fmatthew1) |
+| Prompt Engineering and Limitations Lead | [Tolu Opoola](https://github.com/Toluopson) |
 | Integration and Pitch Lead | [Muyiwa Obadara](https://github.com/mobadara) |
 
 **Programme:** Generative AI Fellowship 2, Publica AI
